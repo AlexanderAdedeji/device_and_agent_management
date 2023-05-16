@@ -1,0 +1,1054 @@
+{
+    "person": {
+        "professionalHeadline": "web developer",
+        "completion": 0.8824,
+        "showPhone": false,
+        "created": "2020-03-06T19:53:46Z",
+        "verified": false,
+        "flags": {
+            "benefits": false,
+            "canary": false,
+            "enlauSource": false,
+            "fake": false,
+            "featureDiscovery": false,
+            "firstSignalSent": true,
+            "signalsOnboardingCompleted": false,
+            "importingLinkedin": true,
+            "onBoarded": true,
+            "remoter": true,
+            "signalsFeatureDiscovery": true,
+            "importingLinkedinRecommendations": true,
+            "contactsImported": false,
+            "appContactsImported": false,
+            "genomeCompletionAcknowledged": true,
+            "cvImported": true,
+            "communityCreatedPrivate": false,
+            "communityCreatedClaimed": false,
+            "connectBenefitsViewed": true
+        },
+        "weight": 0,
+        "locale": "en",
+        "subjectId": 89098,
+        "hasEmail": true,
+        "isTest": false,
+        "name": "Alex Adedeji",
+        "links": [
+            {
+                "id": "8yZGoqxN",
+                "name": "linkedin",
+                "address": "https://www.linkedin.com/in/alexander-adedeji-843032192/"
+            }
+        ],
+        "location": {
+            "name": "Lagos, Nigeria",
+            "country": "Nigeria",
+            "latitude": 6.5243793,
+            "longitude": 3.3792057,
+            "timezone": "Africa/Lagos",
+            "timezoneOffSet": 3600000
+        },
+        "theme": "bio",
+        "id": "BMLap9jD",
+        "claimant": false,
+        "summaryOfBio": "I am a competent and an enthusiastic software professional equipped with great problem solving skills, keen\r\nattention to details, data analytics, business\r\nintelligence, technical support, process automation, database management and\r\nimplementation skills.\r\nI have been actively involved in implementing strategies geared towards actualizing long term goals of high\r\navailability, stability and adoption of financial service products. I am an excellent communicator and a great\r\nteam player.",
+        "weightGraph": "https://hcti.io/v1/image/716c5f75-7861-427f-9834-4efbe0b6a88c",
+        "publicId": "alexadedeji15"
+    },
+    "stats": {
+        "jobs": 1,
+        "strengths": 10,
+        "interests": 3
+    },
+    "strengths": [
+        {
+            "id": "kNmm6oEN",
+            "code": 50182,
+            "name": "React",
+            "proficiency": "novice",
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2021-09-11T23:01:47"
+        },
+        {
+            "id": "8yZDmWWM",
+            "code": 21290,
+            "name": "MongoDB",
+            "proficiency": "novice",
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2021-09-11T23:01:25"
+        },
+        {
+            "id": "pyJ85wkM",
+            "code": 18318,
+            "name": "HTML5",
+            "proficiency": "proficient",
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2020-03-06T19:58:09"
+        },
+        {
+            "id": "LMgl6nJj",
+            "code": 18317,
+            "name": "CSS3",
+            "proficiency": "proficient",
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2020-03-06T19:58:09"
+        },
+        {
+            "id": "xyX3zLYj",
+            "code": 18319,
+            "name": "Javascript",
+            "proficiency": "proficient",
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2020-03-06T19:58:09"
+        },
+        {
+            "id": "bjAK9RwN",
+            "code": 55795,
+            "name": "Management",
+            "proficiency": "novice",
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2021-09-11T23:00:04"
+        },
+        {
+            "id": "8jpp9oxj",
+            "code": 32056,
+            "name": "Python",
+            "proficiency": "novice",
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2021-09-11T23:00:04"
+        },
+        {
+            "id": "OMv8ro2y",
+            "code": 6380,
+            "name": "API",
+            "proficiency": "novice",
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2021-09-11T23:00:04"
+        },
+        {
+            "id": "XMqvAoYj",
+            "code": 187,
+            "name": "Accounting",
+            "proficiency": "novice",
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2021-09-11T23:00:04"
+        },
+        {
+            "id": "LMg6E24N",
+            "code": 23818,
+            "name": "React.js",
+            "proficiency": "novice",
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2021-09-11T23:00:42"
+        }
+    ],
+    "interests": [
+        {
+            "id": "pyJe8ZPj",
+            "code": 32056,
+            "name": "Python",
+            "media": [],
+            "created": "2020-03-06T19:58:40"
+        },
+        {
+            "id": "GNK9vvej",
+            "code": 50182,
+            "name": "React",
+            "media": [],
+            "created": "2021-09-17T11:02:35"
+        },
+        {
+            "id": "wM7mZZvy",
+            "code": 21290,
+            "name": "MongoDB",
+            "media": [],
+            "created": "2021-09-17T11:02:57"
+        }
+    ],
+    "experiences": [
+        {
+            "id": "qNPoPEOy",
+            "category": "jobs",
+            "name": "FullStack Developer",
+            "organizations": [
+                {
+                    "id": 921701,
+                    "name": "Identiko Integrated Solutions Ltd",
+                    "publicId": "IdentikoIntegratedSolutionsLtd"
+                }
+            ],
+            "responsibilities": [],
+            "fromMonth": "December",
+            "fromYear": "2020",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 0,
+            "recommendations": 0,
+            "media": [],
+            "rank": 1,
+            "strengths": []
+        }
+    ],
+    "awards": [],
+    "jobs": [
+        {
+            "id": "qNPoPEOy",
+            "category": "jobs",
+            "name": "FullStack Developer",
+            "organizations": [
+                {
+                    "id": 921701,
+                    "name": "Identiko Integrated Solutions Ltd",
+                    "publicId": "IdentikoIntegratedSolutionsLtd"
+                }
+            ],
+            "responsibilities": [],
+            "fromMonth": "December",
+            "fromYear": "2020",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 0,
+            "recommendations": 0,
+            "media": [],
+            "rank": 1,
+            "strengths": []
+        }
+    ],
+    "projects": [],
+    "publications": [],
+    "education": [],
+    "opportunities": [
+        {
+            "id": "y0zAk1JM",
+            "interest": "mentoring",
+            "field": "active",
+            "data": false
+        },
+        {
+            "id": "Nxzlk7Kj",
+            "interest": "advising",
+            "field": "active",
+            "data": false
+        },
+        {
+            "id": "yJZQ7VRy",
+            "interest": "industries",
+            "field": "types",
+            "data": [
+                {
+                    "code": 33339,
+                    "locale": "en",
+                    "name": "Software and computer services"
+                },
+                {
+                    "code": 33357,
+                    "locale": "en",
+                    "name": "Web applications"
+                },
+                {
+                    "code": 33345,
+                    "locale": "en",
+                    "name": "Web development"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "code": "en",
+            "language": "English",
+            "fluency": "conversational"
+        }
+    ],
+    "professionalCultureGenomeResults": {
+        "groups": [
+            {
+                "id": "1",
+                "text": {
+                    "common": "Achievement oriented"
+                },
+                "answer": "4",
+                "order": 0,
+                "median": 3.307087211,
+                "stddev": 0.7408654995
+            },
+            {
+                "id": "12",
+                "text": {
+                    "common": "Being easygoing"
+                },
+                "answer": "4",
+                "order": 1,
+                "median": 3.418765284,
+                "stddev": 0.7478766839
+            },
+            {
+                "id": "15",
+                "text": {
+                    "common": "Being innovative"
+                },
+                "answer": "4",
+                "order": 2,
+                "median": 3.391966471,
+                "stddev": 0.7194864422
+            },
+            {
+                "id": "17",
+                "text": {
+                    "common": "Being people oriented"
+                },
+                "answer": "4",
+                "order": 3,
+                "median": 3.323092158,
+                "stddev": 0.7719721827
+            },
+            {
+                "id": "19",
+                "text": {
+                    "common": "Being quick to take advantage of opportunities"
+                },
+                "answer": "4",
+                "order": 4,
+                "median": 3.155788266,
+                "stddev": 0.7910802406
+            },
+            {
+                "id": "34",
+                "text": {
+                    "common": "Having high expectations for performance"
+                },
+                "answer": "4",
+                "order": 5,
+                "median": 3.490903614,
+                "stddev": 0.6463617196
+            },
+            {
+                "id": "35",
+                "text": {
+                    "common": "Having integrity"
+                },
+                "answer": "4",
+                "order": 6,
+                "median": 3.754173109,
+                "stddev": 0.4849079849
+            },
+            {
+                "id": "37",
+                "text": {
+                    "common": "Individual goals are transparent"
+                },
+                "answer": "4",
+                "order": 7,
+                "median": 3.090594345,
+                "stddev": 0.9397403977
+            },
+            {
+                "id": "42",
+                "text": {
+                    "common": "Paying attention to detail"
+                },
+                "answer": "4",
+                "order": 8,
+                "median": 3.530555446,
+                "stddev": 0.6241323568
+            },
+            {
+                "id": "44",
+                "text": {
+                    "common": "Putting organization's goals before unit's goals"
+                },
+                "answer": "4",
+                "order": 9,
+                "median": 2.817963301,
+                "stddev": 0.9484849627
+            },
+            {
+                "id": "45",
+                "text": {
+                    "common": "Respecting individuals"
+                },
+                "answer": "4",
+                "order": 10,
+                "median": 3.862969241,
+                "stddev": 0.3800380304
+            },
+            {
+                "id": "47",
+                "text": {
+                    "common": "Security of employment"
+                },
+                "answer": "4",
+                "order": 11,
+                "median": 3.169801154,
+                "stddev": 0.8803406124
+            },
+            {
+                "id": "2",
+                "text": {
+                    "common": "Action oriented"
+                },
+                "answer": "3",
+                "order": 12,
+                "median": 3.182707783,
+                "stddev": 0.7414651075
+            },
+            {
+                "id": "3",
+                "text": {
+                    "common": "Adaptability"
+                },
+                "answer": "3",
+                "order": 13,
+                "median": 3.53455274,
+                "stddev": 0.6204672813
+            },
+            {
+                "id": "4",
+                "text": {
+                    "common": "Avoiding conflict"
+                },
+                "answer": "3",
+                "order": 14,
+                "median": 3.184795276,
+                "stddev": 0.8784443312
+            },
+            {
+                "id": "8",
+                "text": {
+                    "common": "Being careful"
+                },
+                "answer": "3",
+                "order": 15,
+                "median": 3.297779509,
+                "stddev": 0.721817971
+            },
+            {
+                "id": "9",
+                "text": {
+                    "common": "Being competitive"
+                },
+                "answer": "3",
+                "order": 16,
+                "median": 2.983387237,
+                "stddev": 0.9488376744
+            },
+            {
+                "id": "10",
+                "text": {
+                    "common": "Being customer oriented"
+                },
+                "answer": "3",
+                "order": 17,
+                "median": 3.426673945,
+                "stddev": 0.7629528583
+            },
+            {
+                "id": "11",
+                "text": {
+                    "common": "Being decisive"
+                },
+                "answer": "3",
+                "order": 18,
+                "median": 3.280022884,
+                "stddev": 0.7333204925
+            },
+            {
+                "id": "13",
+                "text": {
+                    "common": "Being fair"
+                },
+                "answer": "3",
+                "order": 19,
+                "median": 3.61264673,
+                "stddev": 0.6273839106
+            },
+            {
+                "id": "14",
+                "text": {
+                    "common": "Being honest"
+                },
+                "answer": "3",
+                "order": 20,
+                "median": 3.849761837,
+                "stddev": 0.3852109863
+            },
+            {
+                "id": "16",
+                "text": {
+                    "common": "Being market driven"
+                },
+                "answer": "3",
+                "order": 21,
+                "median": 2.704610857,
+                "stddev": 0.9381360182
+            },
+            {
+                "id": "18",
+                "text": {
+                    "common": "Being precise"
+                },
+                "answer": "3",
+                "order": 22,
+                "median": 3.202731585,
+                "stddev": 0.7136453554
+            },
+            {
+                "id": "20",
+                "text": {
+                    "common": "Being reflective"
+                },
+                "answer": "3",
+                "order": 23,
+                "median": 3.200198307,
+                "stddev": 0.7582734099
+            },
+            {
+                "id": "21",
+                "text": {
+                    "common": "Being results oriented"
+                },
+                "answer": "3",
+                "order": 24,
+                "median": 3.402746414,
+                "stddev": 0.6924228714
+            },
+            {
+                "id": "22",
+                "text": {
+                    "common": "Being rule oriented"
+                },
+                "answer": "3",
+                "order": 25,
+                "median": 3.119940441,
+                "stddev": 0.8511788641
+            },
+            {
+                "id": "23",
+                "text": {
+                    "common": "Being supportive"
+                },
+                "answer": "3",
+                "order": 26,
+                "median": 3.521348496,
+                "stddev": 0.6202686763
+            },
+            {
+                "id": "24",
+                "text": {
+                    "common": "Being team oriented"
+                },
+                "answer": "3",
+                "order": 27,
+                "median": 3.515253662,
+                "stddev": 0.6403773213
+            },
+            {
+                "id": "26",
+                "text": {
+                    "common": "Being willing to experiment"
+                },
+                "answer": "3",
+                "order": 28,
+                "median": 3.336304234,
+                "stddev": 0.7469585025
+            },
+            {
+                "id": "28",
+                "text": {
+                    "common": "Cooperative"
+                },
+                "answer": "3",
+                "order": 29,
+                "median": 3.637398991,
+                "stddev": 0.5441371579
+            },
+            {
+                "id": "29",
+                "text": {
+                    "common": "Emphasis on professional growth"
+                },
+                "answer": "3",
+                "order": 30,
+                "median": 3.640229705,
+                "stddev": 0.5835093756
+            },
+            {
+                "id": "30",
+                "text": {
+                    "common": "Emphasizing quality"
+                },
+                "answer": "3",
+                "order": 31,
+                "median": 3.622124519,
+                "stddev": 0.5685579656
+            },
+            {
+                "id": "31",
+                "text": {
+                    "common": "Fast moving"
+                },
+                "answer": "3",
+                "order": 32,
+                "median": 3.078259813,
+                "stddev": 0.7687488044
+            },
+            {
+                "id": "32",
+                "text": {
+                    "common": "Hard-driving"
+                },
+                "answer": "3",
+                "order": 33,
+                "median": 2.843729747,
+                "stddev": 1.108178542
+            },
+            {
+                "id": "33",
+                "text": {
+                    "common": "Having high ethical standards"
+                },
+                "answer": "3",
+                "order": 34,
+                "median": 3.627091571,
+                "stddev": 0.6464404497
+            },
+            {
+                "id": "38",
+                "text": {
+                    "common": "Learning from mistakes"
+                },
+                "answer": "3",
+                "order": 35,
+                "median": 3.685785863,
+                "stddev": 0.5356724665
+            },
+            {
+                "id": "39",
+                "text": {
+                    "common": "Listening to customers"
+                },
+                "answer": "3",
+                "order": 36,
+                "median": 3.684881005,
+                "stddev": 0.5685013891
+            },
+            {
+                "id": "40",
+                "text": {
+                    "common": "Making your numbers"
+                },
+                "answer": "3",
+                "order": 37,
+                "median": 3.194500771,
+                "stddev": 0.8527745846
+            },
+            {
+                "id": "41",
+                "text": {
+                    "common": "Not being constrained by many rules"
+                },
+                "answer": "3",
+                "order": 38,
+                "median": 2.395910707,
+                "stddev": 1.044083104
+            },
+            {
+                "id": "43",
+                "text": {
+                    "common": "Predictability"
+                },
+                "answer": "3",
+                "order": 39,
+                "median": 2.931484545,
+                "stddev": 0.8854629428
+            },
+            {
+                "id": "46",
+                "text": {
+                    "common": "Risk-taking"
+                },
+                "answer": "3",
+                "order": 40,
+                "median": 2.843108659,
+                "stddev": 0.8711670703
+            },
+            {
+                "id": "49",
+                "text": {
+                    "common": "Stability"
+                },
+                "answer": "3",
+                "order": 41,
+                "median": 3.373058016,
+                "stddev": 0.7308361333
+            },
+            {
+                "id": "50",
+                "text": {
+                    "common": "Taking individual responsibility"
+                },
+                "answer": "3",
+                "order": 42,
+                "median": 3.385036017,
+                "stddev": 0.729758287
+            },
+            {
+                "id": "51",
+                "text": {
+                    "common": "Taking initiative"
+                },
+                "answer": "3",
+                "order": 43,
+                "median": 3.303996319,
+                "stddev": 0.7403525539
+            },
+            {
+                "id": "52",
+                "text": {
+                    "common": "Urgency"
+                },
+                "answer": "3",
+                "order": 44,
+                "median": 2.606840978,
+                "stddev": 0.9817675335
+            },
+            {
+                "id": "53",
+                "text": {
+                    "common": "What you know matters more than who you know"
+                },
+                "answer": "3",
+                "order": 45,
+                "median": 2.07754721,
+                "stddev": 1.153373214
+            },
+            {
+                "id": "54",
+                "text": {
+                    "common": "Working in collaboration with others"
+                },
+                "answer": "3",
+                "order": 46,
+                "median": 3.504892548,
+                "stddev": 0.6398516423
+            },
+            {
+                "id": "6",
+                "text": {
+                    "common": "Being analytical"
+                },
+                "answer": "2",
+                "order": 47,
+                "median": 3.390055005,
+                "stddev": 0.6916525511
+            },
+            {
+                "id": "7",
+                "text": {
+                    "common": "Being calm"
+                },
+                "answer": "2",
+                "order": 48,
+                "median": 3.220002337,
+                "stddev": 0.7320363351
+            },
+            {
+                "id": "25",
+                "text": {
+                    "common": "Being tolerant"
+                },
+                "answer": "2",
+                "order": 49,
+                "median": 3.429954405,
+                "stddev": 0.6756940264
+            },
+            {
+                "id": "27",
+                "text": {
+                    "common": "Confronting conflict directly"
+                },
+                "answer": "2",
+                "order": 50,
+                "median": 3.101074538,
+                "stddev": 0.9032905675
+            },
+            {
+                "id": "5",
+                "text": {
+                    "common": "Being aggressive"
+                },
+                "answer": "1",
+                "order": 51,
+                "median": 0.8133620243,
+                "stddev": 0.8965000891
+            },
+            {
+                "id": "48",
+                "text": {
+                    "common": "Sharing information freely"
+                },
+                "answer": "1",
+                "order": 52,
+                "median": 2.204781432,
+                "stddev": 1.247555541
+            },
+            {
+                "id": "36",
+                "text": {
+                    "common": "High levels of conflict"
+                },
+                "answer": "0",
+                "order": 53,
+                "median": 0.8046163721,
+                "stddev": 0.9958574145
+            }
+        ],
+        "analyses": [
+            {
+                "groupId": "1",
+                "analysis": 4
+            },
+            {
+                "groupId": "12",
+                "analysis": 4
+            },
+            {
+                "groupId": "15",
+                "analysis": 4
+            },
+            {
+                "groupId": "17",
+                "analysis": 4
+            },
+            {
+                "groupId": "19",
+                "analysis": 4
+            },
+            {
+                "groupId": "34",
+                "analysis": 4
+            },
+            {
+                "groupId": "35",
+                "analysis": 4
+            },
+            {
+                "groupId": "37",
+                "analysis": 4
+            },
+            {
+                "groupId": "42",
+                "analysis": 4
+            },
+            {
+                "groupId": "44",
+                "analysis": 4
+            },
+            {
+                "groupId": "45",
+                "analysis": 4
+            },
+            {
+                "groupId": "47",
+                "analysis": 4
+            },
+            {
+                "groupId": "2",
+                "analysis": 3
+            },
+            {
+                "groupId": "3",
+                "analysis": 3
+            },
+            {
+                "groupId": "4",
+                "analysis": 3
+            },
+            {
+                "groupId": "8",
+                "analysis": 3
+            },
+            {
+                "groupId": "9",
+                "analysis": 3
+            },
+            {
+                "groupId": "10",
+                "analysis": 3
+            },
+            {
+                "groupId": "11",
+                "analysis": 3
+            },
+            {
+                "groupId": "13",
+                "analysis": 3
+            },
+            {
+                "groupId": "14",
+                "analysis": 3
+            },
+            {
+                "groupId": "16",
+                "analysis": 3
+            },
+            {
+                "groupId": "18",
+                "analysis": 3
+            },
+            {
+                "groupId": "20",
+                "analysis": 3
+            },
+            {
+                "groupId": "21",
+                "analysis": 3
+            },
+            {
+                "groupId": "22",
+                "analysis": 3
+            },
+            {
+                "groupId": "23",
+                "analysis": 3
+            },
+            {
+                "groupId": "24",
+                "analysis": 3
+            },
+            {
+                "groupId": "26",
+                "analysis": 3
+            },
+            {
+                "groupId": "28",
+                "analysis": 3
+            },
+            {
+                "groupId": "29",
+                "analysis": 3
+            },
+            {
+                "groupId": "30",
+                "analysis": 3
+            },
+            {
+                "groupId": "31",
+                "analysis": 3
+            },
+            {
+                "groupId": "32",
+                "analysis": 3
+            },
+            {
+                "groupId": "33",
+                "analysis": 3
+            },
+            {
+                "groupId": "38",
+                "analysis": 3
+            },
+            {
+                "groupId": "39",
+                "analysis": 3
+            },
+            {
+                "groupId": "40",
+                "analysis": 3
+            },
+            {
+                "groupId": "41",
+                "analysis": 3
+            },
+            {
+                "groupId": "43",
+                "analysis": 3
+            },
+            {
+                "groupId": "46",
+                "analysis": 3
+            },
+            {
+                "groupId": "49",
+                "analysis": 3
+            },
+            {
+                "groupId": "50",
+                "analysis": 3
+            },
+            {
+                "groupId": "51",
+                "analysis": 3
+            },
+            {
+                "groupId": "52",
+                "analysis": 3
+            },
+            {
+                "groupId": "53",
+                "analysis": 3
+            },
+            {
+                "groupId": "54",
+                "analysis": 3
+            },
+            {
+                "groupId": "6",
+                "analysis": 2
+            },
+            {
+                "groupId": "7",
+                "analysis": 2
+            },
+            {
+                "groupId": "25",
+                "analysis": 2
+            },
+            {
+                "groupId": "27",
+                "analysis": 2
+            },
+            {
+                "groupId": "5",
+                "analysis": 1
+            },
+            {
+                "groupId": "48",
+                "analysis": 1
+            },
+            {
+                "groupId": "36",
+                "analysis": 0
+            }
+        ]
+    }
+}

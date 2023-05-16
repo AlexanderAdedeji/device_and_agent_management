@@ -1,0 +1,13 @@
+# .coveragerc to control coverage.py
+[run]
+branch = True
+
+[report]
+show_missing=True
+omit=
+    */site-packages/*
+    */commonlib/*
+ignore_errors = True
+
+[html]
+directory = coverage_html_repor

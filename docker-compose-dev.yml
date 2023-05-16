@@ -1,0 +1,60 @@
+version: "3"
+services:
+  log_database:
+    image: mongo
+    restart: always
+    env_file: 
+      - .env
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
+      MONGO_INITDB_DATABASE: ${MONGO_INITDB_DATABASE}
+  worker:
+    build:
+      dockerfile: worker.dockerfile.dev
+      context: ./worker
+    restart: always
+    depends_on: 
+      - log_database
+      - rabbitmq
+  backend:
+    build:
+      dockerfile: backend.dockerfile.dev
+      context: ./backend
+    restart: always
+    command: /start-reload.sh
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
+    depends_on:
+      - database
+  database:
+    image: "postgres"
+    ports:
+      - ${POSTGRES_PORT}:5432
+    env_file:
+      - .env # configure postgres
+    volumes:
+      - database-data:/var/lib/postgresql/data/ # persist data even if container shuts down
+  
+  rabbitmq:
+    image: "rabbitmq:3-management"
+    hostname: "rabbit1"
+    restart: always
+    environment:
+      RABBITMQ_DEFAULT_USER: ${RABBITMQ_DEFAULT_USER}
+      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_DEFAULT_PASS}
+      RABBITMQ_DEFAULT_VHOST: ${RABBITMQ_DEFAULT_VHOST}
+    ports:
+      - ${RABBIT_MQ_MANAGEMENT_PORT}:15672
+      - ${RABBIT_MQ_PORT}:5672
+    labels:
+      NAME: rabbitmq1
+    volumes:
+      - "./enabled_plugins:/etc/rabbitmq/enabled_plugins"
+volumes:
+  database-data:
+  backend:

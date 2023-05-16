@@ -1,0 +1,1 @@
+SETTINGS = {"PROJECT_NAME": "!2010"}

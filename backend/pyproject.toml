@@ -1,0 +1,40 @@
+[tool.poetry]
+name = "device-agent-mgmt-server"
+version = "0.1.0"
+description = ""
+authors = ["Alexander Adedeji <alexadedeji15@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fastapi = "0.61.2"
+uvicorn = "0.12.2"
+pydantic = { version = "1.7.2", extras = ["email","dotenv"] }
+loguru = "0.5.1"
+asyncpg = "0.21.0"
+databases = { version = "0.4.0", extras = ["postgresql"] }
+passlib = { version = "1.7", extras = ["bcrypt"] }
+alembic = "1.4.3"
+psycopg2-binary = "2.8.5"
+requests = "2.23.0"
+pyjwt = "1.7"
+itsdangerous = "1.1.0"
+postmarker = "0.16.0"
+pymongo = "3.11.1"
+pika = "1.1.0"
+
+
+
+
+[tool.poetry.dev-dependencies]
+pytest = "*"
+
+pytest-asyncio = "^0.14.0"
+asgi-lifespan = "^1.0.1"
+httpx = "^0.16.1"
+coverage = "^5.3"
+testcontainers = {extras = ["postgres"], version = "3.1.0"}
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+

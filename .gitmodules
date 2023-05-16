@@ -1,0 +1,5 @@
+[submodule "commonlib"]
+	path = commonlib
+	url = https://IdentikoSolutions@dev.azure.com/IdentikoSolutions/Agent%20Management%20Common/_git/Agent%20Management%20Common
+
+

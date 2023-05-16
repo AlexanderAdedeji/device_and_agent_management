@@ -1,0 +1,2 @@
+class DBViolationError(Exception):
+    pass
