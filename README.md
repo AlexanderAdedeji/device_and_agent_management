@@ -52,9 +52,9 @@ docker-compose up --build
 This is a result of your pythonpath not being set & to resolve, simply add the module of interest to your pythonpath.
 On Linux systems, this is adding to your ~/.bashrc file.
 ```
-export PYTHONPATH=$PYTHONPATH://home/alex/Projects/identiko/device_agent_management_server/backend
-export PYTHONPATH=$PYTHONPATH://home/alex/Projects/identiko/device_agent_management_server/worker
-export PYTHONPATH=$PYTHONPATH://home/alex/Projects/identiko/device_agent_management_server/commonlib
+export PYTHONPATH=$PYTHONPATH://home/user/device_agent_management_server/backend
+export PYTHONPATH=$PYTHONPATH://home/alex/device_agent_management_server/worker
+export PYTHONPATH=$PYTHONPATH://home/alex/device_agent_management_server/commonlib
 ```
 Similar things should exist for windows.
 
